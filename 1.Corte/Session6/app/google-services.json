@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "194971405626",
+    "firebase_url": "https://task-ulibre.firebaseio.com",
+    "project_id": "task-ulibre",
+    "storage_bucket": "task-ulibre.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194971405626:android:8147102bb69c56ac0c1403",
+        "android_client_info": {
+          "package_name": "com.example.projectautentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "194971405626-c3ic0hjijr7qjb7bl64b2gap881kmgum.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6F5X6HFrIGdFYmh1yru0Hdd6RFkqDD28"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "194971405626-c3ic0hjijr7qjb7bl64b2gap881kmgum.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

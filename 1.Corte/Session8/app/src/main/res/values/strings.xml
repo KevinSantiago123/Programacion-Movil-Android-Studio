@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Session8</string>
+    <string name="title_activity_tabs">Tabs</string>
+    <string name="tab_text_1">Job Request</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="title_activity_main">MainActivity</string>
+</resources>
